@@ -771,3 +771,11 @@ body,
 .notion-table-row td[style*='background:'] {
   background: var(--theme--bg_secondary) !important;
 }
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@200;300;500;600;700;800;900&display=swap');
+/* Replace "@import...." code with your @import code. */
+
+*
+{
+  font-family: 'Montserrat' !important;
+}
+/* Replace 'Montserrat' with your font name. */
